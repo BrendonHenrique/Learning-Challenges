@@ -3,10 +3,10 @@
 # ---- Easy Difficulty ----
 Prize: R$ 50,00 cada
 
-## 1st Challenge ( Code: 01 )
+## 1st Challenge ( Code: 01 ) [Done]
 ### Soma em Python: Desenvolva um programa em Python que solicite ao usuário dois números e exiba a soma deles.
 
-## 2nd Challenge ( Code: 02 )
+## 2nd Challenge ( Code: 02 ) [Done]
 ### Fatorial em Portugol: Escreva um programa em Portugol que calcule o fatorial de um número fornecido pelo usuário e mostre o resultado.
 
 # ---- Medium Difficulty ----
